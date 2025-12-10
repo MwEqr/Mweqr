@@ -1,0 +1,51 @@
+Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Meu nome é HENRIQUE EXPEDITO
+=========================================================================================================================================
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?weight=900&size=30&color=FFFFFF&pause=500&width=450&lines=🚀Desenvolvedor+Frontend;🎨Web+Designer)](https://git.io/typing-svg)
+-------------------------------------
+<img align="left" width="180px" src="https://github.com/user-attachments/assets/2d7a0e07-8308-45c6-b53a-1de0e8894792" />
+<br />
+<p align="left">Sou desenvolvedor frontend especializado em criação de sites, trabalhando de perto com web designers para transformar ideias em experiências digitais incríveis. Tenho grande interesse em explorar novas ideias criativas e inovadoras, sempre em busca de soluções que atendam às necessidades dos usuários e superem as expectativas dos clientes. Com um olhar atento aos detalhes e foco na qualidade, me comprometo em entregar projetos que não apenas funcionam bem, mas também encantam visualmente. Meu compromisso é sempre evoluir e acompanhar as tendências do mercado, garantindo que meu trabalho seja relevante e impactante.</p>
+
+<br/>
+
+
+* 🌍  Estou baseado no Brasil - BRASILIA
+* ✉️  Você pode entrar em contato comigo pelo e-mail jacareburra@hotmail.com
+* 🤝  Estou aberto a colaborar no Projetos com desenvolvimento FULLSTACK
+
+<a href="https://www.github.com/ManoRicck" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/ManoRicck?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+
+### Habilidades
+
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" style="margin-right: 8px;" /></a>
+  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" style="margin-right: 8px;" /></a>
+  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" style="margin-right: 8px;" /></a>
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" style="margin-right: 8px;" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" style="margin-right: 8px;" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" style="margin-right: 8px;" /></a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" style="margin-right: 8px;" /></a>
+  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-logo-icon-download-in-svg-png-gif-file-formats--nodejs-programming-language-pack-logos-icons-1174925.png?f=webp" width="36" height="36" alt="NodeJS" style="margin-right: 8px;" /></a>
+  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" style="margin-right: 8px;" /></a>
+  <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" title="Redux"/></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" style="margin-right: 8px;" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" width="36" height="36" alt="VS Code" style="margin-right: 8px;" /></a>
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" style="margin-right: 8px;" /></a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/78ba38f8-0fdf-45de-88ea-d577508551e7" width="36" height="36" alt="Firebase" /></a>
+  <a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" title="Supabase"/></a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" title="PostgreSQL"/></a>
+
+
+
+### Sociais
+  
+  <a href=["https://github.com/ManoRicck](https://github.com/MwEqr)" target="_blank" rel="noreferrer"><img src="https://images.icon-icons.com/3685/PNG/512/github_logo_icon_229278.png" width="36" height="36" alt="Github" style="margin-right: 8px;" /></a>
+  <a href="[https://discord.com/users/880941558403326002](https://discord.gg/6JsqAUM3)" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/b18b66d8-8cff-4c4b-b1df-5236a340f2fd" width="36" height="36" alt="Discord" style="margin-right: 8px;" /></a>
+  <a href="[https://www.instagram.com/manoricck137/](https://www.instagram.com/furionnzxt/)" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="36" height="36" alt="Instagram" style="margin-right: 8px;" /></a>
+  <a href="[https://www.linkedin.com/in/henrique-expedito-63805b279/](https://www.linkedin.com/in/yuri-r-a67641353/?trk=nav_responsive_tab_profile_pic&originalSubdomain=br)" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="36" height="36" alt="Linkdien" style="margin-right: 8px;" /></a>
+
+
+
+
