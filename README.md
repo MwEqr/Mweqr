@@ -15,7 +15,7 @@ Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 * 🤝  Estou aberto a colaborar no Projetos com desenvolvimento FULLSTACK
 
 <a href="https://github.com/MwEqr" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/ManoRicck?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/mweqr?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 
 
