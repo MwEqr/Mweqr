@@ -14,11 +14,11 @@ Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 * ✉️  Você pode entrar em contato comigo pelo e-mail jacareburra@hotmail.com
 * 🤝  Estou aberto a colaborar no Projetos com desenvolvimento FULLSTACK
 
-<a href="[https://www.github.com/ManoRicck](https://github.com/MwEqr)" target="_blank" rel="noreferrer"><img
+<a href="https://github.com/MwEqr" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ManoRicck?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 
-#c
+
 
 
 
